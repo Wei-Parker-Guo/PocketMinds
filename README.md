@@ -16,7 +16,7 @@ Currently PocketMinds is being actively developed for Android OS.
 
 ## Project Related Links
 
-- [PebblePad Site for Project Meta Information](https://trello.com/b/lWEQ1Oop)
+- [PebblePad Site for Project Meta Information](https://v3.pebblepad.com.au/spa/#/public/kc8xbGHtWyj973w8q7wkrnk4Mc)
 
 ## References
 
