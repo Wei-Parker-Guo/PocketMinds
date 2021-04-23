@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PocketMinds</string>
+    <string name="title_home">Home</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_me">Me</string>
+    <string name="title_signout">Sign Out</string>
+</resources>

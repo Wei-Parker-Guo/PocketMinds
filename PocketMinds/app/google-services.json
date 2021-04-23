@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523477921424",
+    "project_id": "pocketminds",
+    "storage_bucket": "pocketminds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523477921424:android:84fd19c683a06518953215",
+        "android_client_info": {
+          "package_name": "com.icustudio.pocketminds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523477921424-k3okbofffionagbt2tt6t6ah3ek7t2n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icustudio.pocketminds",
+            "certificate_hash": "c4835f782a6a7302ce46b6865ce58272c648ece3"
+          }
+        },
+        {
+          "client_id": "523477921424-ttrgmng0qj5jvgik36ocpg72gb0ovih9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEoiCu5IMRe2zcxCrWy9xEwKVxhnDMX-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523477921424-ttrgmng0qj5jvgik36ocpg72gb0ovih9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
