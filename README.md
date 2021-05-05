@@ -12,7 +12,9 @@ Currently PocketMinds is being actively developed for Android OS.
 |------------|-------------------------------|-----------------------------------------|
 |Wei Guo     |wei.parker.guo.sg@gmail.com    |Team Manager & Leading Software Engineer |
 |Yanzhou Li  |yanzhou.li@my.jcu.edu.au       |Leading Frontend Engineer & Designer     |
+|Jihui Wen   |jihui.wen@my.jcu.edu.au        |Frontend Engineer & Designer             |
 |Chenxu Tang |chenxu.tang@my.jcu.edu.au      |Marketing & Business Specialist          |
+|Xinze Song  |xinze.song@my.jcu.edu.au       |2D Designer                              |
 
 ## Project Related Links
 
