@@ -47,4 +47,12 @@ dependencies {
     implementation 'com.google.firebase:firebase-analytics'
     implementation 'com.google.firebase:firebase-database'
     implementation 'com.firebaseui:firebase-ui-auth:7.1.1'
+
+    implementation 'androidx.cardview:cardview:1.0.0'
+
+    //Material Design
+    implementation 'com.google.android.material:material:1.4.0-beta01'
+    // Rounded Image View
+    implementation 'com.makeramen:roundedimageview:2.3.0'
+
 }

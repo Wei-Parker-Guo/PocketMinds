@@ -4,4 +4,12 @@
     <string name="title_chat">Chat</string>
     <string name="title_me">Me</string>
     <string name="title_signout">Sign Out</string>
+    <string name="user_name">Jackson</string>
+    <string name="full_name">Full Name</string>
+    <string name="shop">SHOP</string>
+    <string name="build">Build</string>
+    <string name="cp_Value">1000CP</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="university">University</string>
+    <string name="professional_field">Professional Field</string>
 </resources>
