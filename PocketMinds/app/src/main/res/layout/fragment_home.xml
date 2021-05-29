@@ -85,7 +85,7 @@
                     app:cardCornerRadius="12dp"
                     app:cardElevation="5dp"
                     android:layout_marginBottom="20dp"
-                    app:cardBackgroundColor="@color/blue_yonder"
+                    app:cardBackgroundColor="@color/black_coral"
                     android:layout_margin="10dp">
 
                     <TextView
@@ -118,7 +118,7 @@
                     app:cardCornerRadius="12dp"
                     app:cardElevation="5dp"
                     android:layout_marginBottom="20dp"
-                    app:cardBackgroundColor="@color/blue_yonder"
+                    app:cardBackgroundColor="@color/black_coral"
                     android:layout_margin="10dp">
 
                     <TextView
@@ -151,7 +151,7 @@
                     app:cardCornerRadius="12dp"
                     app:cardElevation="5dp"
                     android:layout_marginBottom="20dp"
-                    app:cardBackgroundColor="@color/blue_yonder"
+                    app:cardBackgroundColor="@color/black_coral"
                     android:layout_margin="10dp">
 
                     <TextView
@@ -184,9 +184,89 @@
         <View
             android:layout_width="match_parent"
             android:layout_height="1dp"
-            android:background="@color/blue_yonder">
+            android:background="@color/black_coral">
         </View>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:orientation="horizontal">
 
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:text="Daily"
+                android:layout_margin="10dp"/>
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:text="Tech"
+                android:layout_margin="10dp"/>
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:text="Food"
+                android:layout_margin="10dp"/>
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:text="......    "
+                android:layout_margin="10dp"/>
+
+
+
+        </LinearLayout>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:layout_marginStart="80sp"
+            android:backgroundTint="@color/orange_red_crayola"
+            app:cardCornerRadius="20dp">
+            <TextView
+                android:layout_width="280dp"
+                android:layout_height="50sp"
+                android:text="I just talked in:Is Cyberpunk 2077 worth buying? "
+                android:textColor="@color/white"
+                android:layout_margin="10dp">
+            </TextView>
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="50sp"
+                android:text="Come and join me!"
+                android:textColor="@color/white"
+                android:layout_marginStart="150dp"
+                android:layout_marginTop="120dp">
+            </TextView>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:layout_marginStart="80sp"
+            android:backgroundTint="@color/orange_red_crayola"
+            app:cardCornerRadius="20dp"
+            android:layout_marginTop="30dp">
+            <TextView
+                android:layout_width="280dp"
+                android:layout_height="50sp"
+                android:text="I just talked in:When will the coronavirus end?"
+                android:textColor="@color/white"
+                android:layout_margin="10dp">
+            </TextView>
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="50sp"
+                android:text="Come and join me!"
+                android:textColor="@color/white"
+                android:layout_marginStart="150dp"
+                android:layout_marginTop="120dp">
+            </TextView>
+        </androidx.cardview.widget.CardView>
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
